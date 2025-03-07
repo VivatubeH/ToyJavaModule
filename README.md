@@ -12,3 +12,5 @@ ToyJavaModule
 ##### 분기 시 브랜치명
 
 ![image](https://github.com/user-attachments/assets/80b8ebc6-e32e-45ea-821f-17d8afec57c8)
+
+#### feature라는 브랜치명이 원격에 있으면, feature/이슈번호 식으로 브랜치 생성이 불가능합니다.
